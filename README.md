@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkin.</h1>
-<h3 align="center">An engineer/developer who is always trying to learn and stay up to date</h3>
+<h3 align="center">An engineer/developer who constantly tries to stay up to date on artificial intelligence. I work on Deep Learning, Machine Learning, Reinforcement Learning, Computer Vision.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
